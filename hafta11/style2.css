@@ -1,0 +1,11 @@
+p:last-child{
+    color: aqua;
+    background-color: black;
+}
+p::before{
+    content: url(C:\Users\90534\Downloads\stadium-cenit-view-.png);
+}
+p::after{
+    content: normal;
+}
+    

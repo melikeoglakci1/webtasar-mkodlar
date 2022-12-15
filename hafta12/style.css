@@ -1,0 +1,35 @@
+/*comment css*/
+.container{
+    /*display: inline-block;*/
+    display: inline-grid; /*blok elamanları satır içi (inline) yapar*/
+}
+.container .box{
+    border: 1px solid salmon;
+}
+.one{
+    background-color: brown;
+}
+.two{
+    background-color: cornflowerblue;
+}
+.three{
+    background-color: darkgreen;
+}
+.four{
+    background-color: blueviolet;
+}
+.five{
+    background-color: lightseagreen;
+}
+.six{
+    background-color: chartreuse;
+}
+.seven{
+    background-color: darkorange;
+}
+.eight{
+    background-color: deeppink;
+}
+.nine{
+    background-color: mediumblue;
+}

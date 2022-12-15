@@ -1,0 +1,12 @@
+html
+head
+style
+* {
+    color: blue;
+}
+#idYesil {
+    color: green;
+}
+.classKirmizi {
+    color: red;
+}
